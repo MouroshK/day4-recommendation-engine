@@ -1,0 +1,3 @@
+# Standard library only (csv, collections, pathlib)
+# Optional: pytest (if you wish to run unit tests)
+pytest>=7.0.0
